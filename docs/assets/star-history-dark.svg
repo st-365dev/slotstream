@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="500" viewBox="0 0 960 500" role="img" aria-labelledby="title desc">
   <title id="title">st-365dev/slotstream GitHub star history</title>
-  <desc id="desc">0 GitHub stars from Sep 3–Sep 21, 2026.</desc>
+  <desc id="desc">0 GitHub stars from Sep 3–Sep 28, 2026.</desc>
   <defs>
     <linearGradient id="area" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#1f6feb" stop-opacity="0.30"/>
@@ -10,7 +10,7 @@
   <rect x="0.5" y="0.5" width="959" height="499" rx="12" fill="#0d1117" stroke="#30363d"/>
   <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
     <text x="42" y="49" fill="#f0f6fc" font-size="22" font-weight="600">GitHub stars over time</text>
-    <text x="42" y="78" fill="#8b949e" font-size="14">st-365dev/slotstream · Sep 3–Sep 21, 2026</text>
+    <text x="42" y="78" fill="#8b949e" font-size="14">st-365dev/slotstream · Sep 3–Sep 28, 2026</text>
     <text x="918" y="50" text-anchor="end" fill="#f0f6fc" font-size="30" font-weight="600">0</text>
     <text x="918" y="77" text-anchor="end" fill="#8b949e" font-size="14">stars</text>
     <line x1="78" y1="432.00" x2="922" y2="432.00" stroke="#21262d" stroke-width="1"/>
@@ -18,13 +18,13 @@
     <line x1="78" y1="122.00" x2="922" y2="122.00" stroke="#21262d" stroke-width="1"/>
     <text x="65" y="122.00" text-anchor="end" dominant-baseline="middle" fill="#8b949e" font-size="12">1</text>
     <text x="78.00" y="469" text-anchor="middle" fill="#8b949e" font-size="12">Sep 3</text>
-    <text x="265.56" y="469" text-anchor="middle" fill="#8b949e" font-size="12">Sep 7</text>
-    <text x="406.22" y="469" text-anchor="middle" fill="#8b949e" font-size="12">Sep 10</text>
-    <text x="593.78" y="469" text-anchor="middle" fill="#8b949e" font-size="12">Sep 14</text>
-    <text x="734.44" y="469" text-anchor="middle" fill="#8b949e" font-size="12">Sep 17</text>
-    <text x="922.00" y="469" text-anchor="middle" fill="#8b949e" font-size="12">Sep 21</text>
-    <path d="M 78.00 432.00 L 124.89 432.00 L 171.78 432.00 L 218.67 432.00 L 265.56 432.00 L 312.44 432.00 L 359.33 432.00 L 406.22 432.00 L 453.11 432.00 L 500.00 432.00 L 546.89 432.00 L 593.78 432.00 L 640.67 432.00 L 687.56 432.00 L 734.44 432.00 L 781.33 432.00 L 828.22 432.00 L 875.11 432.00 L 922.00 432.00 L 922.00 432.00 L 78.00 432.00 Z" fill="url(#area)"/>
-    <path d="M 78.00 432.00 L 124.89 432.00 L 171.78 432.00 L 218.67 432.00 L 265.56 432.00 L 312.44 432.00 L 359.33 432.00 L 406.22 432.00 L 453.11 432.00 L 500.00 432.00 L 546.89 432.00 L 593.78 432.00 L 640.67 432.00 L 687.56 432.00 L 734.44 432.00 L 781.33 432.00 L 828.22 432.00 L 875.11 432.00 L 922.00 432.00" fill="none" stroke="#58a6ff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="246.80" y="469" text-anchor="middle" fill="#8b949e" font-size="12">Sep 8</text>
+    <text x="415.60" y="469" text-anchor="middle" fill="#8b949e" font-size="12">Sep 13</text>
+    <text x="584.40" y="469" text-anchor="middle" fill="#8b949e" font-size="12">Sep 18</text>
+    <text x="753.20" y="469" text-anchor="middle" fill="#8b949e" font-size="12">Sep 23</text>
+    <text x="922.00" y="469" text-anchor="middle" fill="#8b949e" font-size="12">Sep 28</text>
+    <path d="M 78.00 432.00 L 111.76 432.00 L 145.52 432.00 L 179.28 432.00 L 213.04 432.00 L 246.80 432.00 L 280.56 432.00 L 314.32 432.00 L 348.08 432.00 L 381.84 432.00 L 415.60 432.00 L 449.36 432.00 L 483.12 432.00 L 516.88 432.00 L 550.64 432.00 L 584.40 432.00 L 618.16 432.00 L 651.92 432.00 L 685.68 432.00 L 719.44 432.00 L 753.20 432.00 L 786.96 432.00 L 820.72 432.00 L 854.48 432.00 L 888.24 432.00 L 922.00 432.00 L 922.00 432.00 L 78.00 432.00 Z" fill="url(#area)"/>
+    <path d="M 78.00 432.00 L 111.76 432.00 L 145.52 432.00 L 179.28 432.00 L 213.04 432.00 L 246.80 432.00 L 280.56 432.00 L 314.32 432.00 L 348.08 432.00 L 381.84 432.00 L 415.60 432.00 L 449.36 432.00 L 483.12 432.00 L 516.88 432.00 L 550.64 432.00 L 584.40 432.00 L 618.16 432.00 L 651.92 432.00 L 685.68 432.00 L 719.44 432.00 L 753.20 432.00 L 786.96 432.00 L 820.72 432.00 L 854.48 432.00 L 888.24 432.00 L 922.00 432.00" fill="none" stroke="#58a6ff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
     <circle cx="922.00" cy="432.00" r="5" fill="#0d1117" stroke="#58a6ff" stroke-width="3"/>
   </g>
 </svg>
